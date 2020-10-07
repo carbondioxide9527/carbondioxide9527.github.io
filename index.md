@@ -1,17 +1,17 @@
 ---
 layout: frontpage
 title: Chi Yun Chen 陳繼芸
-description: Chi Yun Chen currently is a graduate student studying M.S. of Data Analytics at George Washington Univerisity.
+description: Chi Yun Chen currently is a graduate studying M.S. of Data Analytics at George Washington Univerisity.
 keywords: data analytics, food science
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Resume_ChiYun-CHEN_v.10">cv</a></li>
+          <li><a href="https://github.com/carbondioxide9527">github</a></li>
+          <li><a href="https://medium.com/@CYC.tw">blog</a></li>
+          <li><a href="https://www.linkedin.com/in/chi-yun-chen-0093712/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
