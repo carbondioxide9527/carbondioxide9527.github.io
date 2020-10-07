@@ -8,7 +8,7 @@ keywords: data analytics, food science
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/Resume_ChiYun-CHEN_v.10.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/cychen_cv.pdf">cv</a></li>
           <li><a href="https://github.com/carbondioxide9527">github</a></li>
           <li><a href="https://medium.com/@CYC.tw">blog</a></li>
           <li><a href="https://www.linkedin.com/in/chi-yun-chen-0093712/">LinkedIn</a></li>
