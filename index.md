@@ -1,8 +1,8 @@
 ---
 layout: frontpage
 title: Chi Yun Chen 陳繼芸
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
-keywords: statistics, data analytics
+description: Chi Yun Chen currently is a graduate student studying M.S. of Data Analytics at George Washington Univerisity.
+keywords: data analytics, food science
 ---
 
 <div class="navbar">
