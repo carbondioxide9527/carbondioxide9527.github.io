@@ -1,11 +1,11 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: Chi Yun Chen is...
 ---
 
 #### <a name="currentposition"></a>current position
-{Insert text here}
+<p> Chi Yun Chen currently is a graduate studying M.S. of Data Analytics at George Washington Univerisity.</p>
 
 
 #### <a name="previousposition"></a>previous positions
@@ -21,7 +21,8 @@ description: Benjamin Harvey is...
 
 
 #### <a name="cvandresume"></a>cv and resume
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cychen_cv.pdf)
+
 
 ---
 
