@@ -1,6 +1,6 @@
 ---
 layout: page
-title: courses
+title: Courses
 description: Student's Courses
 ---
 
@@ -35,6 +35,7 @@ description: Student's Courses
 #### [Data Analysis for Engineers and Scientists](http://bulletin.gwu.edu/search/?P=EMSE%206765) (EMSE6765; Fall, 2020)
 - [Instructor's Site](https://www2.seas.gwu.edu/~dorpjr/EMSE271/Prereq_Review.html)
 - [Notes](https://medium.com/@CYC.tw)
+
 ---
 
 ### <a name="shortcourses"></a>Short Courses

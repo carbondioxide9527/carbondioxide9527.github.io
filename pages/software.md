@@ -1,28 +1,28 @@
 ---
 layout: page
 title: Data Analytics ToolKit
-description: Ben Harvey's assignments
+description: Data Analytics ToolKit
 ---
 
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#datastructures">data structures</a></li>
-            <li><a href="#deeplearning">deep learning</a></li>
-            <li><a href="#machinelearning">machine learning</a></li>
-            <li><a href="#networkanalysis">network analysis</a></li>
-            <li><a href="#scientificcomputing">scientific computing</a></li>
-            <li><a href="#statisticalanalysis">statistical analysis</a></li>
-            <li><a href="#textprocessing">text processing</a></li>
-            <li><a href="#visualization">visualization</a></li>
-            <li><a href="#webscraping">web scraping</a></li>
+            <li><a href="#datastructures">Data Structures</a></li>
+            <li><a href="#deeplearning">Deep Learning</a></li>
+            <li><a href="#machinelearning">Machine Learning</a></li>
+            <li><a href="#networkanalysis">Network Analysis</a></li>
+            <li><a href="#scientificcomputing">Scientific Computing</a></li>
+            <li><a href="#statisticalanalysis">Statistical Analysis</a></li>
+            <li><a href="#textprocessing">Text Processing</a></li>
+            <li><a href="#visualization">Visualization</a></li>
+            <li><a href="#webscraping">Web Scraping</a></li>
             <li><a href="#rpackages">R Packages</a></li>
         </ul>
     </div>
 </div>
 
 
-### <a name="datastructures"></a>data structures
+### <a name="datastructures"></a>Data Structures
 #### <a name="qtl"></a>[pandas](http://www.rqtl.org)
 {Add description of example an library here}
 
@@ -30,7 +30,7 @@ description: Ben Harvey's assignments
 [pandas repository](http://groups.google.com/group/Rqtl-disc)
 
 
-### <a name="deeplearning"></a>deep learning
+### <a name="deeplearning"></a>Deep Learning
 #### <a name="qtl"></a>[theano](http://www.rqtl.org)
 {Add description of example an library here}
 
@@ -51,7 +51,7 @@ description: Ben Harvey's assignments
 
 ---
 
-### <a name="machinelearning"></a>machine learning
+### <a name="machinelearning"></a>Machine Learning
 {Add description of example an library here}
 
 #### <a name="qtl"></a>[mlpy](http://www.rqtl.org)
@@ -66,7 +66,7 @@ description: Ben Harvey's assignments
 
 ---
 
-### <a name="networkanalysis"></a>network analysis
+### <a name="networkanalysis"></a>Network Analysis
 #### <a name="qtl"></a>[networkx](http://www.rqtl.org)
 {Add description of example an library here}
 
@@ -76,7 +76,7 @@ description: Ben Harvey's assignments
 
 ---
 
-### <a name="scientificcomputing"></a>scientific computing
+### <a name="scientificcomputing"></a>Scientific Computing
 #### <a name="qtl"></a>[numpy](http://www.rqtl.org)
 {Add description of example an library here}
 
@@ -93,7 +93,7 @@ description: Ben Harvey's assignments
 
 ---
 
-### <a name="statisticalanalysis"></a>statistic alanalysis
+### <a name="statisticalanalysis"></a>Statistic Analysis
 #### <a name="qtl"></a>[statsmodels](http://www.rqtl.org)
 {Add description of example an library here}
 
@@ -103,7 +103,7 @@ description: Ben Harvey's assignments
 
 ---
 
-### <a name="textprocessing"></a>text processing
+### <a name="textprocessing"></a>Text Processing
 #### <a name="qtl"></a>[nlkt](http://www.rqtl.org)
 {Add description of example an library here}
 
@@ -120,7 +120,7 @@ description: Ben Harvey's assignments
 
 ---
 
-### <a name="visualization"></a>visualization
+### <a name="visualization"></a>Visualization
 #### <a name="qtl"></a>[bokeh](http://www.rqtl.org)
 {Add description of example an library here}
 
@@ -151,7 +151,7 @@ description: Ben Harvey's assignments
 
 ---
 
-### <a name="webscraping"></a>web scraping
+### <a name="webscraping"></a>Web Scraping
 #### <a name="qtl"></a>[beautifulsoup](http://www.rqtl.org)
 {Add description of example an library here}
 
@@ -170,5 +170,3 @@ description: Ben Harvey's assignments
 ### <a name="R Packages"></a>R Packages
 #### <a name="qtl"></a>[R](http://www.r-project.org)
 TBD
-
-

@@ -5,7 +5,7 @@ description: Student's Presentations in Data Analytics
 ---
 
 
-###  2017
+###  2020
 
 #### SEAS 6401 Final Project: {Bike Sharing in Washington D.C.}
 <br/>&nbsp; &nbsp; &nbsp; Slides:

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: labs & assignments
-description: Ben Harvey's assignments
+title: Labs & Assignments
+description: Chi Yun Chen's's assignments
 ---
 
 
@@ -19,76 +19,64 @@ description: Ben Harvey's assignments
 </div>
 
 
-### EMSE 6992 Assignments
-####  <a name="Assignment1"></a>Assignment1
-##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+### SEAS 6401 Assignments
+####  <a name="Assignment1"></a>Assignment 1
+##### <a name="datamanipulationandaggregation"></a>Just Enough for Spark (JEFS) and Databricks
+* [Lab](https://github.com/carbondioxide9527/GWU_SEAS6401/blob/main/Assignment/)
 
 {Add description of example an assignment here}
 
 
-##### <a name="visualization"></a>visualization
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+##### <a name="visualization"></a>Visualization
+* [Lab](https://github.com/carbondioxide9527/GWU_SEAS6401/blob/main/Assignment/)
 
 {Add description of example an assignment here}
 
 Results | Repository
 ---|---
-[assignment1 results]()| [assignment1 repositiory]()
+[Assignment1 results]()| [Assignment1 repositiory]()
 
 ---
 
-
-####  <a name="Assignment2"></a>Assignment2
-##### <a name="scientificcomputing"></a>scientific computing
-* [Lab: Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
-
-{Add description of example an assignment here}
-
-
-##### <a name="statisticalanalysis"></a>statistic alanalysis
-* [Lab: Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
-* [Lab: Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
+####  <a name="Assignment2"></a>Assignment 2
+##### <a name="scientificcomputing"></a>Machine Learning Deployment & Scalable NLP with Spark
+*  [Lab](https://github.com/carbondioxide9527/GWU_SEAS6401/blob/main/Assignment/)
 
 {Add description of example an assignment here}
+
+
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment2 results]()| [assignment2 repositiory]()|
+| [Assignment 2 results]()| [Assignment 2 repositiory]()|
 
 ---
 
 
-####  <a name="Assignment3"></a>Assignment3
-##### <a name="deeplearning"></a>machine learning part1
-* [Lab: Neural Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
-
-{Add description of example an assignment here}
-
-
-##### <a name="machinelearning"></a>machine learning part2
-* [Lab: Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
+####  <a name="Assignment3"></a>Assignment 3
+##### <a name="deeplearning"></a>Machine Learning
+*  [Lab](https://github.com/carbondioxide9527/GWU_SEAS6401/blob/main/Assignment/)
 
 {Add description of example an assignment here}
 
 
 | Results                | Repository                 |
 | ---------------------- |:--------------------------:|
-| [assignment3 results]()| [assignment3 repositiory]()|
+| [Assignment 3 results]()| [Assignment 3 repositiory]()|
 
 ---
 
 
 
-####  <a name="Assignment4"></a>Assignment4
-##### <a name="networkanalysis"></a>network analysis
-* [Lab: Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
+####  <a name="Assignment4"></a>Assignment 4
+##### <a name="networkanalysis"></a>Deep Learning and Reinforcement Learning
+* [Lab](https://github.com/carbondioxide9527/GWU_SEAS6401/blob/main/Assignment/)
 
 {Add description of example an assignment here}
 
 
 ##### <a name="bigdataanalytics"></a>big data analytics
-* [Lab: MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
+* [Lab](https://github.com/carbondioxide9527/GWU_SEAS6401/blob/main/Assignment/)
 
 {Add description of example an assignment here}
 
@@ -102,13 +90,13 @@ Results | Repository
 
 ####  <a name="ExtraCredit"></a>Extra Credit Assignment
 ##### <a name="webscraping"></a>webs craping
-* [Lab: Web Scraping](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb)
+* [Lab](https://github.com/carbondioxide9527/GWU_SEAS6401/blob/main/Assignment/)
 
 {Add description of example an assignment here}
 
 
 ##### <a name="textprocessing"></a>sampling and text processing
-* [Lab: Sampling and Text Processing ](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab7/GibbsSampler.ipynb)
+* [Lab](https://github.com/carbondioxide9527/GWU_SEAS6401/blob/main/Assignment/)
 
 {Add description of example an assignment here}
 
@@ -120,17 +108,17 @@ Results | Repository
 ---
 
 
-#### EMSE 6992 Labs
-##### <a name="labassignments"></a>lab assignments
+#### EMSE 6574
+##### <a name="labassignments"></a>Weekly Assignments
 
-* [Web Scraping](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab2/Lab_2_A_Johanna.ipynb)
-* [Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
-* [Scikit-Learn, Regression, PCA](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab4/Lab4full.ipynb)
-* [Bias, Variance, Cross-Validation](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab5/Lab5.ipynb)
-* [Bayes, Linear Regression, and Metropolis Sampling](https://github.com/bsharvey/EMSEDataAnalytics/tree/master/EMSE6992_Labs/lab6)
-* [Support Vector Machines](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab10/Lab_10.ipynb)
-* [Networks](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab9/lab_9_with_answers.ipynb)
-* [MapReduce](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab8/lab8_mapreduce.ipynb)
+* [Quine]()
+* [Machine Learning]()
+* [Random Forest]()
+* [Genetic Algorithm]()
+* [Time Series on Stock]()
+* [NLP](h)
+* [k-Means to NLP]()
+* [Search Engine from Scratch]()
 
 
 
