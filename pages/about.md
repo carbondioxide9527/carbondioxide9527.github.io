@@ -5,7 +5,7 @@ description: Chi Yun Chen is...
 ---
 
 #### <a name="currentposition"></a>Current Position
-<p> Chi Yun Chen currently is a graduate studying M.S. of Data Analytics at George Washington Univerisity.</p>
+<p> Chi Yun Chen currently is a graduate studying M.S. in Data Analytics at George Washington Univerisity.</p>
 
 
 #### <a name="previousposition"></a>Previous Positions
