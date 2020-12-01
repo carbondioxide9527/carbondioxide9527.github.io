@@ -6,8 +6,8 @@ title: Time-Series Forecasting: Predicting Stock Prices
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="pages/publpics/election.html">prev</a></li>
-          <li><a href="pages/publpics/dcbike.png">next</a></li>
+          <li><a href="election.html">prev</a></li>
+          <li><a href="dcbike.html">next</a></li>
       </ul>
   </div>
 </div>

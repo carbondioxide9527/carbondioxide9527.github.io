@@ -6,8 +6,8 @@ title: US Election
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="pages/publpics/poster.html">prev</a></li>
-          <li><a href="pages/publpics/stockprice.html">next</a></li>
+          <li><a href="poster.html">prev</a></li>
+          <li><a href="stockprice.html">next</a></li>
       </ul>
   </div>
 </div>

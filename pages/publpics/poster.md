@@ -6,8 +6,8 @@ title: Poster of Nanoparticle Studies
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="pages/publpics/dcbike.png">prev</a></li>
-          <li><a href="pages/publpics/election.html">next</a></li>
+          <li><a href="dcbike.html">prev</a></li>
+          <li><a href="election.html">next</a></li>
       </ul>
   </div>
 </div>
