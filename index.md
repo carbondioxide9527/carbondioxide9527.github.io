@@ -4,11 +4,11 @@ title: Chi Yun Chen (CY Chen) 陳繼芸
 description: Chi Yun Chen currently is a graduate studying M.S. of Data Analytics at George Washington Univerisity.
 keywords: data analytics, food science
 ---
-
+# Markdown Preview
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/cychen_cv.pdf">cv</a></li>
+          <li><a href="{assets/cychen_cv.pdf}/">cv</a></li>
           <li><a href="https://github.com/carbondioxide9527">github</a></li>
           <li><a href="https://medium.com/@CYC.tw">blog</a></li>
           <li><a href="https://www.linkedin.com/in/chi-yun-chen-0093712/">LinkedIn</a></li>
