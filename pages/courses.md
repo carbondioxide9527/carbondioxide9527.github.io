@@ -27,7 +27,7 @@ description: Student's Courses
 - [Notes](https://medium.com/@CYC.tw)
 
 #### [Programming for Analytics](http://bulletin.gwu.edu/search/?P=EMSE%206574) (EMSE6574; Fall, 2020)
-- [Instructor's Site](https://bsharvey.github.io/)
+- [Instructor's Site]()
 - [Assignments](https://github.com/carbondioxide9527/GWU_EMSE6574/tree/main/Assignment)
 - [Google Colaboratory](https://drive.google.com/drive/folders/1Vcx7IyEhclol3CZib2-WFzLtXlj2mgHk?usp=sharing)
 - [Notes](https://medium.com/@CYC.tw)
@@ -48,7 +48,7 @@ description: Student's Courses
 ---
 
 ### <a name="old"></a>Former Courses
-#### [Intro to CS Fundamentals](http://bsharvey.github.io) (EMSE6574; Fall, 2020)
+#### [Intro to CS Fundamentals](http://bulletin.gwu.edu/search/?P=CSCI%206010) (EMSE6574; Fall, 2020)
 
 - [Instructor's Site]()
 - [Assignments](https://github.com/carbondioxide9527/GWU_CSCI6010/tree/main/Assignment)
