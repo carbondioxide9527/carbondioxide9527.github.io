@@ -7,9 +7,9 @@ title: Chi Yun Chen (CY Chen)
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{/assets/cychen_cv.pdf}">cv</a></li>
-          <li><a href="https://github.com/carbondioxide9527">github</a></li>
-          <li><a href="https://medium.com/@CYC.tw">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/chi-yun-chen-0093712/">LinkedIn</a></li>
+          <li><a href="http://bit.ly/cychen_github_home">github</a></li>
+          <li><a href="http://bit.ly/medium_home_github">blog</a></li>
+          <li><a href="http://bit.ly/cychen_linkedin">LinkedIn</a></li>
       </ul>
   </div>
 </div>
