@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-description: Chi-Yun Chen's publications
+description: CY's publications
 ---
 
 <div class="navbar">
