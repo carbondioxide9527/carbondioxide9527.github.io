@@ -9,11 +9,11 @@ description: Chi Yun Chen is...
 
 
 #### <a name="previousposition"></a>Previous Positions
-{Insert text here}
+To be Continued...
 
 
 #### <a name="researchbackground"></a>Research Background
-{Insert text here}
+To be Continued...
 
 
 #### <a name="education"></a>Education
