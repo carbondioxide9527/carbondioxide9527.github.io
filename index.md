@@ -8,7 +8,7 @@ keywords: data analytics, food science
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{assets/cychen_cv.pdf}/">cv</a></li>
+          <li><a href="assets/cychen_cv.pdf/">cv</a></li>
           <li><a href="http://bit.ly/cychen_github_home">github</a></li>
           <li><a href="http://bit.ly/medium_home_github">blog</a></li>
           <li><a href="http://bit.ly/cychen_linkedin">LinkedIn</a></li>
